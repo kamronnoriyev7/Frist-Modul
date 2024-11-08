@@ -1,1 +1,1 @@
-﻿Console.WriteLine("frist modul");
+﻿Console.WriteLine("Frist Modul");
